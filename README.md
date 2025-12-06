@@ -13,7 +13,7 @@ This application was built as a practice project to demonstrate full-stack CRUD 
 | 2  | ajones15@uic.edu | Adam | Jones |
 | 3  | mjohns8@uic.edu | Mary | Johnson |
 
-#### Publications Table
+#### Sample Publications Table
 | id | student_id | title | year |
 |----|------------|-------|------|
 | 1  | 2 | Publication #1 | 2015 |
